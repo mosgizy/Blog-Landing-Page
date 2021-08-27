@@ -1,4 +1,5 @@
 # Frontend Mentor - Blogr landing page
+https://mosgizy.github.io/Blog-Landing-Page/
 
 ![Design preview for the Blogr landing page coding challenge](./design/desktop-preview.jpg)
 
